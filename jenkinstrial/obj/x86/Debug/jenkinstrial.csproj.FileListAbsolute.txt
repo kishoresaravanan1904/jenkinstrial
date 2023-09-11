@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\bin\Debug\jenkinstrial.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\bin\Debug\testsuitenamechange.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\bin\Debug\jenkinstrial.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\bin\Debug\jenkinstrial.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\bin\Debug\jenkinstrial.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\bin\Debug\jenkinstrial.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\obj\x86\Debug\jenkinstrial.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\obj\x86\Debug\jenkinstrial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\obj\x86\Debug\jenkinstrial.csproj.CopyComplete
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\obj\x86\Debug\jenkinstrial.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinstrial\jenkinstrial\obj\x86\Debug\jenkinstrial.pdb

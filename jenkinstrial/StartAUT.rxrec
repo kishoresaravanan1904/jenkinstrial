@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="0c5d2d72-5c78-4433-a40b-a8bcc8451937"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="jenkinstrial">
+	</codegen>
+	<variables>
+		<var
+		id="52f79f9b-448d-42fc-942e-d40eff9fd766"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Users\Kishore\Desktop\noc smart\rxdemo.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="114e31ae-9725-4b2b-8338-e40bc18c49e7"
+	name="jenkinstrialRepository"
+	relativepath="jenkinstrialRepository.rxrep">
+		<codegen
+		classname="jenkinstrialRepository"
+		namespace="jenkinstrial">
+		</codegen>
+		<rootfolder
+		id="778c4c4b-d836-4721-8b24-8d0f1e821e5a"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
